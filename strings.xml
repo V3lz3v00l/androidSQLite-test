@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SQLite notepad</string>
+    <string name="textHeader">Header</string>
+    <string name="textContent">Content</string>
+    <string name="Button_add">Add</string>
+    <string name="Button_read">Read</string>
+    <string name="Button_clear">Clear</string>
+    <string name="textStatement">State</string>
+</resources>
